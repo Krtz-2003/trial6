@@ -7,6 +7,6 @@ func main() {
 	b := 2
 	c := 4
 	fmt.Println("Hiii")
-	fmt.Println(a + b)
+	fmt.Println(a + b+c)
 
 }
